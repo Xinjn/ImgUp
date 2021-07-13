@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/assets/upload.css"],"names":[],"mappings":"AAOA,wCACI,aACJ","file":"8.f6c791d1.chunk.css","sourcesContent":["/* *{\r\n    border: 1px solid red;\r\n} */\r\n.ant-upload .ant-upload-btn{\r\n    /* border: 1px solid red; */\r\n\r\n}\r\n.ant-upload.ant-upload-drag .ant-upload{\r\n    padding-top:0;\r\n}"]}
